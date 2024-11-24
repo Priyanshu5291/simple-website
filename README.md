@@ -1,2 +1,2 @@
 # simple-website
-A simple demo website created using html css and javascript.
+A simple demo website created using html and css.
